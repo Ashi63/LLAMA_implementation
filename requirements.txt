@@ -1,0 +1,16 @@
+streamlit
+pypdf
+langchain
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+stream-chat
+streamlit-chat
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+#faiss-gpu
+ctransformers
